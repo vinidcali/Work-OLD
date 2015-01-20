@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Debug/SDL2.dll
+Debug/Work.exe
+Debug/Work.ilk
+Debug/Work.pdb
+Work.sdf
+Work.v11.suo
